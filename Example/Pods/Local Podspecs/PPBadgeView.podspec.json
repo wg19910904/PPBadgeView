@@ -1,0 +1,22 @@
+{
+  "name": "PPBadgeView",
+  "version": "0.1.0",
+  "summary": "A short description of PPBadgeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/805182850/PPBadgeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "805182850": "1911476762@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/805182850/PPBadgeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PPBadgeView/Classes/**/*"
+}

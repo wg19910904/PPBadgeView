@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PPBadgeView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PPBadgeView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  PPBadgeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PPBadgeView: 9cf7a36186e304fd1a3a7796ba563d208b7d8e86
+
+PODFILE CHECKSUM: 5da6cec12a0e9ddecdfe888669919e85a8449a13
+
+COCOAPODS: 1.9.1
